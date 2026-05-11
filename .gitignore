@@ -1,0 +1,23 @@
+# Test outputs (large files, videos, frames)
+test_output/
+
+# Browser cookies (sensitive)
+cookies.txt
+
+# Video files
+*.mp4
+
+# Large image files
+frames/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
