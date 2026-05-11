@@ -1,3 +1,6 @@
+# Claude Code config
+.claude/
+
 # Test outputs (large files, videos, frames)
 test_output/
 
@@ -13,6 +16,9 @@ frames/
 # Python
 __pycache__/
 *.pyc
+
+# MCP config (contains tokens)
+.mcp.json
 
 # OS
 .DS_Store
